@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iammert/TabScrollAttacher/blob/master/art/artgif.gif">
+  <img src="https://github.com/waterboys/TabScrollAttacher/blob/master/art/artgif.gif">
 </p>
 
 ## What? 🤔
@@ -55,7 +55,7 @@ maven { url 'https://jitpack.io' }
 
 ```gradle
 dependencies {
-  compile 'com.github.iammert:TabScrollAttacher:1.0.2'
+  compile 'com.github.waterboys:TabScrollAttacher:1.0.3'
 }
 ```
 
@@ -64,11 +64,11 @@ dependencies {
 When you have `LinearLayoutManager`, `GridLayoutManager` in any orientation (horizontal or vertical) you can use this library.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iammert/TabScrollAttacher/master/art/1.png">
+  <img src="https://raw.githubusercontent.com/waterboys/TabScrollAttacher/master/art/1.png">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iammert/TabScrollAttacher/master/art/2.png">
+  <img src="https://raw.githubusercontent.com/waterboys/TabScrollAttacher/master/art/2.png">
 </p>
 
 ## Who? 👻
